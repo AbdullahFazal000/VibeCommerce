@@ -44,6 +44,8 @@ Open a terminal and navigate to the backend folder: cd backend
 
 Install dependencies: npm install
 
+Install seed: npm run seed
+
 Start the backend server: npm run dev
 
 
