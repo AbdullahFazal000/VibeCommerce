@@ -13,4 +13,4 @@ npm run dev
 ```
 
 Vite dev server runs on http://localhost:3000 and proxies `/api` to http://localhost:5000.
-Make sure backend is running and seeded (POST /api/products/seed) if you want DB-backed products.
+Make sure backend is running and seeded (POST /api/products/seed) 
