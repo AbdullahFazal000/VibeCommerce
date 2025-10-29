@@ -28,6 +28,13 @@ It allows users to browse products, add them to a cart, and proceed to checkout 
 ---
 
 ## ⚙️ Installation & Setup
+🧾 Environment Variables
+
+In the .env file inside the backend folder add:
+
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+
 
 ### 1️⃣ Clone the Repository
 Running the Project (Two-Terminal Method)
@@ -48,12 +55,6 @@ Install dependencies: npm install
 
 Start the React app: npm start
 
-🧾 Environment Variables
-
-Create a .env file inside the backend folder and add:
-
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
 
 
 
