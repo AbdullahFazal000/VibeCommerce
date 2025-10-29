@@ -40,22 +40,29 @@ MONGO_URI=your_mongodb_connection_string
 Running the Project (Two-Terminal Method)
 🖥️ Terminal 1 – Start the Backend
 
-Open a terminal and navigate to the backend folder: cd backend
+Open a terminal and navigate to the backend folder: 
+cd backend
 
-Install dependencies: npm install
+Install dependencies: 
+npm install
 
-Install seed: npm run seed
+Install seed: 
+npm run seed
 
-Start the backend server: npm run dev
+Start the backend server: 
+npm run dev
 
 
 🖥️ Terminal 2 – Start the Frontend
 
-Open another terminal and navigate to the frontend folder: cd frontend
+Open another terminal and navigate to the frontend folder: 
+cd frontend
 
-Install dependencies: npm install
+Install dependencies: 
+npm install
 
-Start the React app: npm start
+Start the React app: 
+npm run dev
 
 
 
